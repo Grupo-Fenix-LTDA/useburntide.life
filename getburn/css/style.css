@@ -224,6 +224,10 @@ h1, h2, h3, h4 { font-family: var(--font-head); line-height: 1.18; font-weight: 
 .bg-footer__disclaimer { font-size: .82rem; line-height: 1.6; max-width: 820px; margin: 0 auto 18px; color: #c3a99d; }
 .bg-footer #disclaimer { display: block; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; font-size: .78rem; color: #a88b7e; }
 .bg-footer #disclaimer img { max-width: 100%; height: auto; }
+.contact-inline { font-size: 11px; color: #a88b7e; text-align: center; margin: 8px auto; padding: 0 20px; line-height: 1.4; }
+.contact-inline a { color: #a88b7e; text-decoration: none; }
+.contact-inline a:hover { text-decoration: underline; }
+
 /* ====== Fim Footer ====== */
 
 /* ====== Responsivo ====== */
